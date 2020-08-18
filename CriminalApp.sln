@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriminalApp", "CriminalApp\CriminalApp.csproj", "{CD1F3F12-BF25-4D15-BE91-D4AC63FDE954}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B4AAEEF-538C-4E8A-9E99-626AC4A534AE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\MOCK_DATA.csv = ..\..\..\Documents\MOCK_DATA.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD1F3F12-BF25-4D15-BE91-D4AC63FDE954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1F3F12-BF25-4D15-BE91-D4AC63FDE954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1F3F12-BF25-4D15-BE91-D4AC63FDE954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1F3F12-BF25-4D15-BE91-D4AC63FDE954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {500C8A6D-E7F9-4538-904B-64A252A6999E}
+	EndGlobalSection
+EndGlobal

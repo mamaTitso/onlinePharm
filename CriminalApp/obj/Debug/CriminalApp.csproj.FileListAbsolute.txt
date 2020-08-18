@@ -1,0 +1,10 @@
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\bin\Debug\CriminalApp.exe.config
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\bin\Debug\CriminalApp.exe
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\bin\Debug\CriminalApp.pdb
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\obj\Debug\CriminalApp.csprojAssemblyReference.cache
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\obj\Debug\CriminalApp.Properties.Resources.resources
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\obj\Debug\CriminalApp.csproj.GenerateResource.cache
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\obj\Debug\CriminalApp.csproj.CoreCompileInputs.cache
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\obj\Debug\CriminalApp.exe
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\obj\Debug\CriminalApp.pdb
+C:\Users\pcdellopt390\source\repos\CriminalApp\CriminalApp\obj\Debug\CriminalApp.Form1.resources
